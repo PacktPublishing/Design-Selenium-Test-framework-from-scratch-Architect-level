@@ -33,3 +33,7 @@ N/A
 * [Hands-On VMWare vSphere 6.x Datacenter Design [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-vmware-vsphere-6x-datacenter-design-video)
 
 * [Learn JMETER from Scratch on Live Apps - Performance Testing [Video]](https://www.packtpub.com/application-development/learn-jmeter-scratch-live-apps-performance-testing-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789131048">https://packt.link/free-ebook/9781789131048 </a> </p>
